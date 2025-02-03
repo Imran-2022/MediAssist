@@ -20,6 +20,7 @@ pipeline.fit(df["symptoms"], df["specialist"])
 class SymptomInput(BaseModel):
     symptoms: str
 
+
 # Example: Predict doctor for a new symptom
 # user_input = ["I have been experiencing some issues with my eyes"]
 # prediction = pipeline.predict(user_input)
