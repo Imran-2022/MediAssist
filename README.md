@@ -1,8 +1,4 @@
-### Coming Soon! 🚀
+### Hey there! 👋  
 
-Hey there! 👋  
-
+**MediAssist** – Combining "medical" and "assist," it conveys the idea of helping patients get the right care.
 This project is currently undergoing some exciting updates! 🎉  
-Stay tuned for something **awesome** coming your way soon.  
-
-#### 📅 Expected Update: _Very Soon™_
