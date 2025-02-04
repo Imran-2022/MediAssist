@@ -31,7 +31,7 @@ class SymptomInput(BaseModel):
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello World"}
+    return {"message": data}
 
 @app.post("/predict/")
 def predict_specialist(user_input: SymptomInput):

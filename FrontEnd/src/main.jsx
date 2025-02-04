@@ -11,6 +11,8 @@ import Login from './components/Auth/Login';
 import Register from './components/Auth/Register';
 import Forget from './components/Auth/Forget';
 import About from './components/About';
+import AIAssist from './components/AI_assist';
+
 
 const router = createBrowserRouter([
   {
@@ -21,6 +23,10 @@ const router = createBrowserRouter([
       {
         path: '/about',
         element: <About/>
+      }, 
+      {
+        path: '/ai-assist',
+        element: <AIAssist/>
       }, 
       {
         path: '/login',

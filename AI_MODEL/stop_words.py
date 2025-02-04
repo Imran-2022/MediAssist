@@ -5,5 +5,5 @@ stop_words = [
     "some", "more", "are", "were", "your", "their", "from", "after", "which",
     "who", "where", "what", "why", "or", "than", "such", "there", "those", 
     "over", "out", "through", "very", "many", "can", "also", "while", "even", 
-    "each", "other", "like", "around", "up", "down", "again", "most", "into"
+    "each", "other", "like", "around", "up", "down", "again", "most", "into","problem"
 ]

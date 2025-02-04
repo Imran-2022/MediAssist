@@ -3,6 +3,7 @@ data = [
 
     # Data collected by imran 👋
     ("i have EYE pain","Eye Specialist"),
+    ("I have a problem with my eyes. I can't see things clearly in the distance.","Eye Specialist"),
     ("I am experiencing frequent headaches, dizziness, and occasional numbness in my hands.", "Neurologist"),
     ("I have been feeling a lot of pain in my back and have trouble moving my joints.", "Orthopedics"),
     ("I have been experiencing blurry vision and frequent headaches, especially after using my computer for a long time.", "Eye Specialist"),

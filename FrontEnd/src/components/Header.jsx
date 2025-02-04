@@ -5,7 +5,7 @@ import React, { useState, useEffect } from "react";
 const Header = () => {
   const navigate = useNavigate()
   const links = <>
-    <li><NavLink to="/">AI Assist</NavLink></li>
+    <li><NavLink to="/ai-assist">AI Assist</NavLink></li>
     <li><NavLink to="/about">About</NavLink></li>
   </>
 
